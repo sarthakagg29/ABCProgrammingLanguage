@@ -1,1 +1,8 @@
+The ABC Programming Language has a KEYWORD named "WRITE".
 
+This acts as a Print Keyword in Python.
+We can write a numerical value, a list or a string for it to get printed.
+
+All of the these data types are similary typed as in python
+
+This indicates the direct inspiration of Python from ABC 
