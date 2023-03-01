@@ -1,0 +1,9 @@
+The Keyword PUT is responsible for assigning the value of a variable.
+
+Here we announce the "value" first or expr said in official documentation and variable later in the statement or address in official documentation.
+
+But the Keyword IN is same in both languages and have the same functionality.
+
+We can add a list,numerical,string,compound and telephone list value to a assigning varible.
+
+We can check that by printing that variable by using "WRITE" Keyword.
