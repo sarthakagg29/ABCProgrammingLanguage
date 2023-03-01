@@ -1,0 +1,32 @@
+Unlike Pascal and C, ABC has only five data types
+
+- Numbers
+Like : 12,23,24,23.34
+They are unbounded
+They are a basic data type
+They are used in different calculations including arthmetic
+Above are the examples of exact numbers
+
+- Texts
+Like : "h","he","test","hhh"^^"oo"
+They are unbounded
+They are basic data type
+In python, these texts are called strings
+One can print a part of these texts using @ and |.
+
+- List
+They are in {} brackets instead of python in []
+They are sorted in nature
+One can add different data types together
+They are mutable
+They are structred Data type
+
+- Compound
+They are in () brackets
+They do not have field names
+They are like tuples from python which also have () brakcets.
+
+- Tables
+They are Like dictionary from Python.
+They have a number of set of unique keys and their associated values.
+We can receive keys as well as values using keywords.
