@@ -1,2 +1,14 @@
 # ABCProgrammingLanguage
 One of the most used Languages : "Python" has gained its inspiration from ABC Programming Language. Since I am implementing the language of Python, the curiosity to check up on its history and inspiration has led to the building this project. 
+
+This Repositoy contains the simple multi-paradigm ABC Programming Language.Leo Geurts, Lambert Meertens and Steven Pemberton are the designers of this language and developed this in their fourth iteration. 
+
+ABC inspired the idea of:
+- Significant Indentation
+- Not Explicitly Variable Declaration
+- Simple to use
+
+Can you believe this language's aim was to replace the then most used programming langauage : PASCAL 
+The Last Stable Release of this was released in 1991
+
+Guido Van Rossum worked in the project of ABC
