@@ -1,0 +1,21 @@
+1. Check
+Just like If but here we can only check whether the test/condition is true of False
+If true, it will not print anything
+If false, it will says command is failed indicating the Test is False
+
+2. Select
+Just like Switch in C language
+This will allow one of the alternatives or test to check and run its associated action
+Since ABC does not have else, this can be good method to write alternative conditions and their associated different actions.
+Here, it will check whether the condition/test is true or not, once true it will perform the action and will not go ahead.
+
+3. AND
+Just like and in Python
+It will make the conditions linked to And to be checked.
+If both of them is true, then only the action will be performed
+Its use is if,for,while statements
+
+4. OR
+Another Logic used in real world that can be interpreted in a programming language.
+It will allow us to check the conditions.
+It will see that if one or more than one conditions are true then we can perform the action
