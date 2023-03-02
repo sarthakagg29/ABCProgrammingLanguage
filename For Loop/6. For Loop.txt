@@ -1,0 +1,26 @@
+ABC Release 1.05.02 (central workspace).
+Copyright (c) Stichting Mathematisch Centrum, Amsterdam, 1991.
+Type '?' for help.
+>first
+>>> F?OR ? IN ?:
+     OR i IN {1..10}:
+       WRITE i+1
+       \
+
+2 3 4 5 6 7 8 9 10 11
+>>> FOR j IN (1, "hello", 2, "hi", 3):
+       WRITE j
+       \
+
+*** Cannot reconcile the types in your command
+    FOR j IN (1, "hello", 2, "hi", 3):
+*** The problem is: I found type text or list or table where I expected (0, "", 0, "", 0)
+>>> PUT {} IN table
+>>> PUT 30 IN table["hello"]
+>>> PUT 60 IN table["hi"]
+>>> PUT 90 IN table["Hola"]
+>>> PUT 120 IN table["Aloha"]
+>>> FOR name IN keys table:
+       WRITE name \
+
+AlohaHolahellohi
