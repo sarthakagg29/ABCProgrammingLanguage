@@ -1,0 +1,9 @@
+For loop is an looping statement which allows the user to run for a definate number of times.
+
+IN ABC, we can use the Keyword FOR .. IN ..
+
+Here we can tell the machine to run the loop for how many times exactly and it is matching to python as well.
+
+In the first example, a list has been printed with every element automatically printed in the next line.
+
+In the second Example, name variable has printed the keys of the table and they have no gap in between.
