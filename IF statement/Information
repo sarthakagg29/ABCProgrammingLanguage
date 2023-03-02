@@ -1,0 +1,9 @@
+Just like Python, ABC has an if statement that can help us check a condition is true or false.
+
+But here there is following "ELSE" if the condition is false and we wanted to do an action for else condition.
+
+In the code , <> is not equal sign in ABC which is different from != in Python. 
+
+The Implementation is same just the operator signs are different.
+
+We can see the indentations are used in order to seperate the block of code and to execute it properly.
