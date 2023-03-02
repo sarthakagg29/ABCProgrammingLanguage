@@ -1,0 +1,10 @@
+We can input a value into a variable by using READ command
+
+READ address EG expr
+
+Here at address, we write the variable
+Here at expr, we write the expr that is data type we like to input
+
+There are some examples in the code and Read can take all types of data 
+There are errors coming in order to fully understand the meaning of Read Command mostly entering a Compound Data type.
+And how the elements need to be alike.
