@@ -1,0 +1,7 @@
+While loop are the loops which run till the condition written in them is false
+
+Just like Python, here we use "WHILE" keyword to start a while loop 
+
+And a : (semi-colon) to tell the machine the action we need to perform until the condition is False
+
+I have increased the value of i until it becomes true to the condition in my example.
