@@ -1,0 +1,13 @@
+"+" will add two numerical elements
+"-" will subtract two numerical elements
+"*" will multiply two numerical elements
+"/" will divide two numerical elements
+"**" will power the element with other element 
+">" Element 1 is greater than Element 2
+"<" Element 1 is lesser than Element 2
+"=" Element 1 is equal Element 2
+"<>" Element 1 is not equal Element 2
+">=" Element 1 is greater than or equal to Element 2
+"<=" Element 1 is lesser than or equal to Element 2
+
+We can use each of them
