@@ -1,0 +1,7 @@
+The last data type which was not in the previous code is *table*.
+
+This Data type resembles to **Dictionary** of the Python as it has keys and its associated values.
+
+It is sorted in nature.
+
+> Tables are great way to form a structured data
