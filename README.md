@@ -1,4 +1,7 @@
 # ABCProgrammingLanguage
+
+![ABC_Photo](https://user-images.githubusercontent.com/79784782/222300519-aad3da47-32da-4a64-8c7d-04ab1d1020c0.jpeg)
+
 One of the most used Languages : "Python" has gained its inspiration from ABC Programming Language. Since I am implementing the language of Python, the curiosity to check up on its history and inspiration has led to the building this project. 
 
 This Repositoy contains the simple multi-paradigm ABC Programming Language.Leo Geurts, Lambert Meertens and Steven Pemberton are the designers of this language and developed this in their fourth iteration. 
