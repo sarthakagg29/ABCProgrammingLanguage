@@ -11,9 +11,15 @@ ABC inspired the idea of:
 ###### Not Explicitly Variable Declaration
 ###### Simple to use
 
+1. ABC has been used for the teaching purpose due to ease of code readibility.
+2. It allows to learn principles because of reduced syntax
+3. It is Student-Friendly
+
 > *Can you believe this language's aim was to replace the then most used programming langauage : PASCAL* 
 
 
 The Last Stable Release of this was released in 1991
 
 **Guido Van Rossum** worked in the project of ABC
+
+[ABC Quick Reference](https://homepages.cwi.nl/~steven/abc/qr.html)
